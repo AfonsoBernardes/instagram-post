@@ -1,7 +1,10 @@
+body {
+    justify-content: center;
+}
+
 .postWrapper {
-    margin: 2% auto 2% auto;
-    width: 50%;
-    height: 60%;
+    margin: auto;
+    max-width: 600px;
 }
 
 .postHeader,
