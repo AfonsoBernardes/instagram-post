@@ -7,41 +7,41 @@ body {
     justify-content: center;
 }
 
-.postWrapper {
+.post-wrapper {
     background-color: whitesmoke;
     max-width: 600px;
 }
 
-.postHeader,
-.optionsDiv {
+.post-header,
+.options-div {
     display: flex;
     justify-content: space-between;
     margin: 2.5%;
 }
 
-.alignLeft,
-.iconsLeft {
+.align-left,
+.icons-left {
     width: 60%;
     display: flex;
     float: left;
 }
 
-.postInfo {
+.post-info {
     width: 100%;
 }
 
-.userImage {
+.user-image {
     margin: auto;
     margin-right: 2%;
 }
 
-.userImage i,
-.moreOptions i {
+.user-image i,
+.more-options i {
     font-size: 1.5em;
     align-items: center;
 }
 
-.postInfo p {
+.post-info p {
     margin: 0 0 0 1.5%;
     text-align: left;
 }
@@ -50,29 +50,29 @@ body {
     font-weight: bold;
 }
 
-.moreOptions,
-.iconsRight {
+.more-options,
+.icons-right {
     margin: auto 1%;
 }
 
-.iconsLeft i {
+.icons-left i {
     margin-right: 2%;
 }
 
-.footerDiv {
+.footer-div {
     height: 30%;
     margin: 2.5%;
 }
 
-.postImage {
+.post-image {
     display: flex;
     justify-content: center;
 }
 
-.postImage img {
+.post-image img {
     max-width: 100%;
 }
 
-.footerDiv div p {
+.footer-div div p {
     margin: 3% 0;
 }
